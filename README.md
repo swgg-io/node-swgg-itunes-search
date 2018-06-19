@@ -58,7 +58,7 @@ this zero-dependency package will provide a swagger-client for itunes-search's w
 - none
 
 #### changelog for v2018.1.16
-- npm publish 2018.1.16
+- npm publish 2018.6.19
 - update build
 - none
 
@@ -337,7 +337,7 @@ instruction
         "start": "PORT=${PORT:-8080} utility2 start test.js",
         "test": "PORT=$(utility2 shServerPortRandom) utility2 test test.js"
     },
-    "version": "2018.1.16"
+    "version": "2018.6.19"
 }
 ```
 
